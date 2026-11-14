@@ -64,7 +64,7 @@ Our organization operates with centralized leadership and dedicated engineering,
 
 ### ❤️ B+ ("Be Positive")
 | Name | Role |
-| :--- | :--- | :--- |
+| :--- | :--- |
 | **Thaw Ye Zaw** | Architect & Lead Developer |
 | **Phyo Zaw Aung** | Full-Stack Developer |
 | **Nyi Nyi Naing** | UI/UX & QA Tester |
